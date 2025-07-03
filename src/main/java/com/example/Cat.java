@@ -2,7 +2,8 @@ package com.example;
 
 import java.util.List;
 
-public class Cat {
+public class
+Cat {
 
     Predator predator;
 
